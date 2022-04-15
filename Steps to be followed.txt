@@ -22,3 +22,4 @@ Step 9: Now Create Some Folders
         5. public   -->Front end files 
         6. utils    --> middlewares(auth, 404), config, encrypt, token
 Step 10: Now Create .gitignore file and add line "node_modules" and save them.
+Step 11: Now Push your code to Git Repository Following the Steps given in Github, after creating new Repository.
