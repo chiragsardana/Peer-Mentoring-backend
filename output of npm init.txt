@@ -1,0 +1,103 @@
+(base) chiragsardana@UserName Peer Mentoring % npm init
+This utility will walk you through creating a package.json file.
+It only covers the most common items, and tries to guess sensible defaults.
+
+See `npm help init` for definitive documentation on these fields
+and exactly what they do.
+
+Use `npm install <pkg>` afterwards to install a package and
+save it as a dependency in the package.json file.
+
+Press ^C at any time to quit.
+package name: (peer-mentoring) com.sbk
+version: (1.0.0) 1.0.0
+description: Peer Mentoring Backend
+entry point: (index.js) app.js
+test command: 
+git repository: https://github.com/chiragsardana/Peer-Mentoring-backend.git
+keywords: Express Git GitHub NodeJS MongoDB
+author: Chirag Sardana
+license: (ISC) 
+About to write to /Users/chiragsardana/Desktop/Dream Project/Peer Mentoring/package.json:
+
+{
+  "name": "com.sbk",
+  "version": "1.0.0",
+  "description": "Peer Mentoring Backend",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chiragsardana/Peer-Mentoring-backend.git"
+  },
+  "keywords": [
+    "Express",
+    "Git",
+    "GitHub",
+    "NodeJS",
+    "MongoDB"
+  ],
+  "author": "Chirag Sardana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chiragsardana/Peer-Mentoring-backend/issues"
+  },
+  "homepage": "https://github.com/chiragsardana/Peer-Mentoring-backend#readme"
+}
+
+
+Is this OK? (yes) no
+Aborted.
+
+
+(base) chiragsardana@chirags-MacBook-Air Peer Mentoring % npm init
+This utility will walk you through creating a package.json file.
+It only covers the most common items, and tries to guess sensible defaults.
+
+See `npm help init` for definitive documentation on these fields
+and exactly what they do.
+
+Use `npm install <pkg>` afterwards to install a package and
+save it as a dependency in the package.json file.
+
+Press ^C at any time to quit.
+package name: (peer-mentoring) com.sbk.peer-mentoring-backend
+version: (1.0.0) 
+description: Peer Mentoring Backend
+entry point: (index.js) app.js
+test command: 
+git repository: https://github.com/chiragsardana/Peer-Mentoring-backend.git
+keywords: Git Github ExpressJS
+author: Chirag Sardana
+license: (ISC) 
+About to write to /Users/chiragsardana/Desktop/Dream Project/Peer Mentoring/package.json:
+
+{
+  "name": "com.sbk.peer-mentoring-backend",
+  "version": "1.0.0",
+  "description": "Peer Mentoring Backend",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chiragsardana/Peer-Mentoring-backend.git"
+  },
+  "keywords": [
+    "Git",
+    "Github",
+    "ExpressJS"
+  ],
+  "author": "Chirag Sardana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chiragsardana/Peer-Mentoring-backend/issues"
+  },
+  "homepage": "https://github.com/chiragsardana/Peer-Mentoring-backend#readme"
+}
+
+
+Is this OK? (yes) yes
