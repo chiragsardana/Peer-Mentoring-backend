@@ -1,0 +1,36 @@
+(base) chiragsardana@UserName Peer Mentoring % git init
+hint: Using 'master' as the name for the initial branch. This default branch name
+hint: is subject to change. To configure the initial branch name to use in all
+hint: of your new repositories, which will suppress this warning, call:
+hint: 
+hint:   git config --global init.defaultBranch <name>
+hint: 
+hint: Names commonly chosen instead of 'master' are 'main', 'trunk' and
+hint: 'development'. The just-created branch can be renamed via this command:
+hint: 
+hint:   git branch -m <name>
+Initialized empty Git repository in /Users/chiragsardana/Desktop/Dream Project/Peer Mentoring/.git/
+(base) chiragsardana@UserName Peer Mentoring % git add README.md
+fatal: pathspec 'README.md' did not match any files
+(base) chiragsardana@UserName Peer Mentoring % git add .
+(base) chiragsardana@UserName Peer Mentoring % git commit -m "required code i.e., pattern"
+[master (root-commit) ff18c7a] required code i.e., pattern
+ 5 files changed, 2747 insertions(+)
+ create mode 100644 .gitignore
+ create mode 100644 Steps to be followed.txt
+ create mode 100644 output of npm init.txt
+ create mode 100644 package-lock.json
+ create mode 100644 package.json
+(base) chiragsardana@UserName Peer Mentoring % git branch -M main
+(base) chiragsardana@UserName Peer Mentoring % git remote add origin https://github.com/chiragsardana/Peer-Mentoring-backend.git
+(base) chiragsardana@UserName Peer Mentoring % git push -u origin main
+Enumerating objects: 7, done.
+Counting objects: 100% (7/7), done.
+Delta compression using up to 2 threads
+Compressing objects: 100% (6/6), done.
+Writing objects: 100% (7/7), 27.48 KiB | 9.16 MiB/s, done.
+Total 7 (delta 1), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (1/1), done.
+To https://github.com/chiragsardana/Peer-Mentoring-backend.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
