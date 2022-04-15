@@ -13,7 +13,7 @@ Step 7: Now Install some dependencies using npm
         5. "jsonwebtoken"
         6. "mongoose"
     Command: npm install express cors dotenv bcrypt jsonwebtoken mongoose
-Step 8: Now Create a app.js file
+Step 8: Now Create a app.js file and .env file in the project directory.
 Step 9: Now Create Some Folders
         1. api  --> routes(all the routes files)
         2. controllers (all controllers)
