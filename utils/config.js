@@ -3,6 +3,7 @@
 module.exports = {
     SCHEMAS: {
       USERS: "users",
+      MENTORS: "mentors" 
     },
     STATUS_CODES: {
       NOT_FOUND: 404,
@@ -14,8 +15,10 @@ module.exports = {
       ROOT: "/",
       USER: {
         LOGIN: "/login",
-      }
-      
+      },
+      MENTORS: {
+        
+      },
     },
   };
   
